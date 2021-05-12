@@ -5,4 +5,5 @@ I'm Aquaa, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2
 
 ❓ I am in love with coding Discord Bots, I also love helping!.
 
+🚀 Currently Working on a Logging Bot!
 
