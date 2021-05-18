@@ -16,9 +16,5 @@ First of all i want to give you some Informations about me:
 | 2021 (start) | Working on Advanced Projects!. |
 | 2021 (mid) | You've watched my profile on GitHub. |
 
-🌱 I’m currently coding in Javascript and C#.
 
-❓ I am in love with coding Discord Bots, I also love helping!.
-
-🚀 Currently Working on a Logging Bot!
 
