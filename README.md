@@ -8,10 +8,10 @@ C# Developer
 First of all i want to give you some Informations about me:
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquaaaaaaaa&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquaaaaaaaa&show_icons=true&hide_border=true&theme=dark">
 </p>
 
-<p align='center'>
+
 | Date | Action |
 | - | - |
 | 2017 (end) | I've heard about NodeJS and started learning it. |
@@ -22,4 +22,4 @@ First of all i want to give you some Informations about me:
 | 2021 (mid) | You've watched my profile on GitHub. |
 
 
-</p>
+
