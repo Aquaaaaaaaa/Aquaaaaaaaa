@@ -10,7 +10,7 @@ First of all i want to give you some Informations about me:
 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquaaaaaaaa&show_icons=false&hide_border=false&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquaaaaaaaa&show_icons=false&hide_border=true&theme=dark">
 </p>
 
 
