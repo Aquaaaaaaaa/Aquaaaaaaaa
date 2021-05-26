@@ -2,7 +2,7 @@
 I'm Aquaa, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀
 
 Full Stack Java Developer😋
-C# Developer
+
 
 ### Welcome to my GitHub Page!
 First of all i want to give you some Informations about me:
